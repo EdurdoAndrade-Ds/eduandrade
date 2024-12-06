@@ -1,8 +1,8 @@
 ### Olá eu sou o Eduardo Andrade 👋
 
-- 📷 Hoje trabalho com...
+- 📷 Hoje trabalho com programação
 - 👀 Estou interessado em crescer na area de TI
-- 🌱 Estudando PHP 8
+- 🌱 Estudando PostgrenSQL
 - 📖 Contate-me no email: eduardoandrade.dss@gmail.com
 - 😄 Prononus: ele/dele
 
